@@ -10,7 +10,7 @@ I like building systems related to data and machine learning focusing on NLP top
 - 🏃‍♂️ I like running
 ---
 #### 🛠️ Technologies & Tools
-##### 💾 Data & AI
+##### 🧪 Data & AI
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Spark](https://img.shields.io/badge/-Apache-000?&logo=Apache)
@@ -23,7 +23,7 @@ I like building systems related to data and machine learning focusing on NLP top
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000?&logo=Pytorch)
 ![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow&logoColor=green)
 
-##### 🕸️ Web
+##### 🌐 Web
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -43,10 +43,10 @@ I like building systems related to data and machine learning focusing on NLP top
 
 ---
 
-#### 🚧 Currently Working With
+#### 🧰 Currently Working With
 Big data processing and solutions at [Bluetab, an IBM company](https://bluetab.net/es/) as Experienced Technician
 
 ---
 
-#### 📫 How to reach me
-You can message me on [LinkedIn](www.linkedin.com/in/andres-carrillo-442139104) or just email me at alcarrillop@gmail.com.
+#### 📥 How to reach me
+You can message me on [LinkedIn](https://www.linkedin.com/in/andres-carrillo-442139104) or just email me at alcarrillop@gmail.com.

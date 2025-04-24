@@ -1,13 +1,14 @@
 ### Hi there, I'm Andres 👋
 ---
 ### ⭐️ About Me
-I like building systems related to data and machine learning focusing on NLP topics, I have been working with data for the past 4 years, occupying roles like Data Engineer deploying data solutions. I also like studying about the future of AI.
+I’m passionate about building intelligent systems that connect data with real-world applications. Over the last 4 years, I’ve worked primarily as a Data Engineer, deploying scalable data pipelines and exploring how machine learning—especially Natural Language Processing (NLP)—can create value. I’m deeply curious about the future of AI and how we can shape it.
 
-- 💥 I’m currently working on data processing with Apache Spark
-- 📚 I’m currently learning about GenAI focusing in LLMs
-- 🤖 I studied Mechatronic Engineering at Universidad Autonoma de Bucaramanga
-- 🎵 I love electronic music
-- 🏃‍♂️ I like running
+⚡ What I’m Up To
+	•	💥 Currently working on large-scale data processing using Apache Spark
+	•	🧠 Learning everything I can about Generative AI and LLMs
+	•	🤖 Background in Mechatronic Engineering from Universidad Autónoma de Bucaramanga
+	•	🎵 Music fuels my flow—especially electronic beats
+	•	🏃‍♂️ Running is my go-to way to reset and get inspired
 ---
 #### 🛠️ Technologies & Tools
 ##### 🧪 Data & AI
@@ -40,11 +41,6 @@ I like building systems related to data and machine learning focusing on NLP top
 ![Poetry](https://img.shields.io/badge/-Poetry-000?&logo=Poetry)
 ![Pytest](https://img.shields.io/badge/-Pytest-000?&logo=Pytest)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
-
----
-
-#### 🧰 Currently Working With
-Big data processing and solutions at [Bluetab, an IBM company](https://bluetab.net/es/) as Experienced Technician
 
 ---
 

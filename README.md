@@ -1,14 +1,14 @@
 ### Hi there, I'm Andres 👋
 ---
 ### ⭐️ About Me
-I’m passionate about building intelligent systems that connect data with real-world applications. Over the last 4 years, I’ve worked primarily as a Data Engineer, deploying scalable data pipelines and exploring how machine learning—especially Natural Language Processing (NLP)—can create value. I’m deeply curious about the future of AI and how we can shape it.
+I’m passionate about building intelligent systems that connect data with real-world applications. Over the last 5 years, I’ve worked primarily as a Data Engineer, deploying scalable data pipelines and exploring how machine learning—especially Natural Language Processing (NLP)—can create value. I’m deeply curious about the future of AI and how we can shape it.
 
-⚡ What I’m Up To
-	•	💥 Currently working on large-scale data processing using Apache Spark
-	•	🧠 Learning everything I can about Generative AI and LLMs
-	•	🤖 Background in Mechatronic Engineering from Universidad Autónoma de Bucaramanga
-	•	🎵 Music fuels my flow—especially electronic beats
-	•	🏃‍♂️ Running is my go-to way to reset and get inspired
+### ⚡ What I’m Up To
+- 💥 Currently working on large-scale data processing using Apache Spark
+- 🧠 Learning everything I can about Generative AI and LLMs
+- 🤖 Background in Mechatronic Engineering from Universidad Autónoma de Bucaramanga
+- 🎵 Music fuels my flow—especially electronic beats
+- 🏃‍♂️ Running is my go-to way to reset and get inspired
 ---
 #### 🛠️ Technologies & Tools
 ##### 🧪 Data & AI
